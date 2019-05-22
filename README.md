@@ -1,7 +1,7 @@
 ## Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search
 This repository contains the code for the following paper:
 
-Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, Shota Saito, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search, 36th International Conference on Machine Learning (ICML) (2019) (Accepted)
+Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, Shota Saito, and Kouhei Nishida: Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search, 36th International Conference on Machine Learning (ICML) (2019) [[arXiv]](https://arxiv.org/abs/1905.08537)</a>
 
 
 If you use this code for your research, please cite our paper:
